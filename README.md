@@ -41,7 +41,7 @@
 
 ---
 
-🔗 ดูโปรเจกต์ได้ที่นี่: [SENTRY Project](https://github.com/Tikumporn12/Project)
+🔗 ดูโปรเจกต์ได้ที่นี่: [Project-SENTRY](https://github.com/Tikumporn12/Project-SENTRY)
 
 ### 🌷 Contact  
 - 📩 Email: poytkp12@gmail.com 
