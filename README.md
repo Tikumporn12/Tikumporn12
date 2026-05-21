@@ -1,16 +1,35 @@
-## Hi there 👋
+<h2 align="center">🌸✨ Hello, I'm <b>Tikumporn Mahaisub</b> ✨🌸</h2>
 
-<!--
-**Tikumporn12/Tikumporn12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Engineering-Student-ffb7d5?style=for-the-badge&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💗 About Me  
+- 🎀 Computer Engineering student  
+- 🧸 Learning programming fundamentals (Python & others)  
+- 🌷 Interested in **AI, Data, and Databases**  
+- 🌱 Currently learning Full-Stack & Software Development  
+- 🤍 I love soft, pastel, minimal vibes  
+- 🐣 Still a beginner — growing step by step!
+
+---
+
+### 🌸 Current Project  
+- **SENTRY — AI-Powered Web Security Scanner (Team Project)**  
+  _My contributions: system documentation, diagram design, and research_
+
+---
+
+### 🌿 What I'm Learning  
+- Basic programming  
+- Database concepts  
+- AI tools  
+- Web development basics  
+
+---
+
+### 🌷 Contact  
+- 📩 Email: your-email-here  
+- 💗 GitHub: https://github.com/Tikumporn12  
