@@ -39,8 +39,6 @@
 - 📊 ออกแบบไดอะแกรมของระบบ  
 - 🤝 ทำงานร่วมกับทีมในการออกแบบและทดสอบระบบ
 
----
-
 🔗 ดูโปรเจกต์ได้ที่นี่: [Project-SENTRY](https://github.com/Tikumporn12/Project-SENTRY)
 
 ### 🌷 Contact  
