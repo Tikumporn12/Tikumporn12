@@ -1,4 +1,4 @@
-<h2 align="center">🌸✨ Hello, I'm <b>Tikumporn Mahaisub</b> ✨🌸</h2>
+<h2 align="center">🌸✨ สวัสดีค่ะ ฉันชื่อ <b>Tikumporn Mahaisub</b> ✨🌸</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Engineering-Student-ffb7d5?style=for-the-badge&logoColor=white" />
@@ -7,26 +7,26 @@
 ---
 
 ### 💗 About Me  
-- 🎀 Computer Engineering student  
-- 🧸 Learning programming fundamentals (Python & others)  
-- 🌷 Interested in **AI, Data, and Databases**  
-- 🌱 Currently learning Full-Stack & Software Development  
-- 🤍 I love soft, pastel, minimal vibes  
-- 🐣 Still a beginner — growing step by step!
+🎀 นักศึกษาวิศวกรรมคอมพิวเตอร์
+🧸 กำลังเรียนรู้พื้นฐานการเขียนโปรแกรม (Python และภาษาอื่น ๆ)
+🌷 สนใจ AI, Data และฐานข้อมูล
+🌱 กำลังพัฒนาทักษะ Full-Stack & Software Development
+🤍 ชอบงานโทนหวานๆ มินิมอล พาสเทล
+🐣 ยังเป็นมือใหม่ แต่กำลังก้าวไปทีละขั้น!
 
 ---
 
 ### 🌸 Current Project  
-- **SENTRY — AI-Powered Web Security Scanner (Team Project)**  
-  _My contributions: system documentation, diagram design, and research_
+SENTRY — AI-Powered Web Security Scanner (โปรเจกต์กลุ่ม)
+สิ่งที่ฉันรับผิดชอบ: งานเอกสารระบบ, การออกแบบไดอะแกรม, และการค้นคว้า
 
 ---
 
 ### 🌿 What I'm Learning  
-- Basic programming  
-- Database concepts  
-- AI tools  
-- Web development basics
+- พื้นฐานการเขียนโปรแกรม
+- แนวคิดฐานข้อมูล
+- เครื่องมือ AI
+- พื้นฐานเว็บเดเวลอปเมนต์
 
 ---
 
