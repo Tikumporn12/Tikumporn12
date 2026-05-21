@@ -26,9 +26,22 @@
 - Basic programming  
 - Database concepts  
 - AI tools  
-- Web development basics  
+- Web development basics
 
 ---
+
+## 🌸 Featured Project
+
+### 🛡️ SENTRY – Web Security Scanner  
+ระบบสแกนความปลอดภัยเว็บไซต์ที่ผสาน **AI + Rule-based**  
+หน้าที่ของฉันในโปรเจกต์นี้คือ  
+- 📝 จัดทำรายงาน  
+- 📊 ออกแบบไดอะแกรมของระบบ  
+- 🤝 ทำงานร่วมกับทีมในการออกแบบและทดสอบระบบ
+
+---
+
+🔗 ดูโปรเจกต์ได้ที่นี่: [SENTRY Project](https://github.com/Tikumporn12/Project)
 
 ### 🌷 Contact  
 - 📩 Email: poytkp12@gmail.com 
