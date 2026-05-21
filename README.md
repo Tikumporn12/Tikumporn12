@@ -1,4 +1,4 @@
-<h2 align="center">🌸✨ สวัสดีค่ะ ฉันชื่อ <b>Tikumporn Mahaisub</b> ✨🌸</h2>
+<h2 align="center">🌸✨ สวัสดีค่ะ ฉันชื่อ <b>ทิฆัมพร มาให้ทรัพย์</b> ✨🌸</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Engineering-Student-ffb7d5?style=for-the-badge&logoColor=white" />
